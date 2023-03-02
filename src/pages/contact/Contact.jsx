@@ -30,7 +30,7 @@ const Contact = () => {
               <BsMessenger />
             </a>
             <a
-              href="https://wa.me/+91916388689"
+              href="https://wa.me/+919163886869"
               target="_blank"
               rel="noreferrer nooper"
             >

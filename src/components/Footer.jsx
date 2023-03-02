@@ -18,28 +18,28 @@ const Footer = () => {
           </p>
           <div className="footer__socials">
             <a
-              href="https;//linkedin.com"
+              href="https://linkedin.com"
               target="_blank"
               rel="noreferrer nooper"
             >
               <FaLinkedin />
             </a>
             <a
-              href="https;//facebook.com"
+              href="https://facebook.com"
               target="_blank"
               rel="noreferrer nooper"
             >
               <FaFacebookF />
             </a>
             <a
-              href="https;//twitter.com"
+              href="https://twitter.com"
               target="_blank"
               rel="noreferrer nooper"
             >
               <AiOutlineTwitter />
             </a>
             <a
-              href="https;//instagram.com"
+              href="https://instagram.com"
               target="_blank"
               rel="noreferrer nooper"
             >
