@@ -14,11 +14,12 @@ const Navbar = () => {
     <nav>
       <div className="container nav__container">
         <Link to="/" className="logo">
-          <img
+          {/* <img
             src={Logo}
             alt="Nav Logo"
-            onClick={() => setIsNavShowing(false)}
-          />
+            
+          /> */}
+          <p onClick={() => setIsNavShowing(false)}>KASRATHUB</p>
         </Link>
         <ul
           className={`nav__links ${isNavShowing ? "show__nav" : "hide__nav"}`}
